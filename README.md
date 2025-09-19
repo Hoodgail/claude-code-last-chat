@@ -2,6 +2,7 @@
 This is for context on the last chat with Claude code, that have led to the suspension.
 
 
+```
 
 ╭──────────────────────────────────────────────────────────────╮
 │ ✻ Welcome to Claude Code!                                    │
@@ -369,4 +370,4 @@ This is for context on the last chat with Claude code, that have led to the susp
   The animation creates a rhythmic, immersive visual effect where the weapon subtly shakes and bobs with each
   shot, enhancing the shooting feedback without interfering with the existing recoil system.
 
-
+```
