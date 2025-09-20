@@ -1,6 +1,11 @@
+## Here is video evidence of my purely virtual, non-threatening work that you can technically play without even downloading:
+
+* **Proof of the "Weapon":** Here's a video of the final procedural shooting animation and camera sway in-game. [https://youtu.be/BkXQuHJZBbQ](https://youtu.be/BkXQuHJZBbQ)
+* **Older Evidence:** Here's an older clip of the procedural weapon sway system that started this whole mess. [https://youtu.be/5wihLk8BTNM](https://youtu.be/5wihLk8BTNM)
+* **The Game Itself:** And here's some actual gameplay footage of bots shooting at each other with these browser-based "weapons." [https://youtu.be/ik9Lpq88tuc](https://youtu.be/ik9Lpq88tuc)
+
 # claude-code-last-chat
 This is for context on the last chat with Claude code, that have led to the suspension.
-
 
 ```
 
